@@ -1,0 +1,6 @@
+{
+  "name": "Devbox Todo Dev Environment",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
