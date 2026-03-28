@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { formatTitle } from "../utils/format";
 
 export const metadata: Metadata = {
   title: "Todo Service",
